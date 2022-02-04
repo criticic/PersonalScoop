@@ -11,21 +11,21 @@
             "ug.exe",
             "ugrep"
         ],
-	[
+        [
             "ug.exe",
             "grep",
-	    "-G"
+            "-G"
         ],
-	[
+        [
             "ug.exe",
             "fgrep",
-	    "-F"
+            "-F"
         ],
-	[
+        [
             "ug.exe",
             "egrep",
-	    "-E"
-        ],
+            "-E"
+        ]
     ],
     "checkver": "github",
     "autoupdate": {
