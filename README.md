@@ -8,7 +8,7 @@ Template bucket for [Scoop](https://scoop.sh), the Windows command-line installe
 How do I install these manifests?
 ---------------------------------
 
-To add this bucket, run `scoop bucket add <bucketname> https://github.com/<username>/<bucketname>`. To install, do `scoop install <manifest>`.
+To add this bucket, run `scoop bucket add personal https://github.com/criticic/PersonalScoop`. To install, do `scoop install <manifest>`.
 
 How do I contribute new manifests?
 ----------------------------------
@@ -19,6 +19,6 @@ To make a new manifest contribution, please read the [Contributing Guide](https:
 
 #### To use this template
 
-- Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
-- Enable GitHub Actions for this repository.
+[x] Modify the Readme.md and the bin/auto-pr.ps1 files accordingly.
+[x] Enable GitHub Actions for this repository.
 - Login to AppVeyor and import this repository.
